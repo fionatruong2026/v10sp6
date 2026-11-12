@@ -1,0 +1,45 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "1,1": "This is test project - Updated"
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "FGC_ユーザーマスターページ",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//rPpte5Q7pFLjpMlTuwxLEITrdUWsRz+GYLl8innNVajLEhFxNct8RND13Q/KfKI04/TG45J//Ma6iV5e7A018Ysbh0Y7M25myf8AFmkN/401Vos2W+Foto0pfz3WWIGI8vjEH8D9+/sRFGFi56Rdktpt/hwGYYQHg6eT/DAREtTmm4RKc1/A+12t1A3Mj9h1/0xkgYHtzRxPe3kIGrih2xNWV8IgJb7ZM4P8BKINI34d3iJM2Gibwn8AVoibgh+j78265l2vJgfJGabnuEu6f4tTfDsusF/zTCpR5Qgobm237kKboCopfuZv74E5Ji2Tg/anNcVDkyCDDB3/eLMLBxM0ELa2WplMMpAw5zLdceQ3cKKtn50EXWdBLpaJgTFTu7TflypoY4LEnqtAL7iL/r9tfpA1De9iroM44PrIUTFjv5SKS1fiMPnpySjwu6lnFitz8rcBIRnDv3gOP8roByKOBG4gybh163FV95sVBTDKosw640RRpz03F8uUWuwpM0TRXXpSIEylId82VnbsPJM2D8RpTQjWyA6GwAOa6L+JLFuvs2l6OZcVHQkfajPZWKFs3iXpTtGjyxViABGUqblHGLbNv8aJFv+CW/59keuqSgw4i5y37alVrBrg2P8p0nXljluh+YYZUDH6RER6m7UHNds7SkUjVhxC9hF/GijiyJJjjYDzjFMrtsbs3X1id1lHOgjmsfDQOxixlzDx30YACOY8jrWFWgA1c9shJTtz34mLn4NlHz3uLAxb8x4TQRbEcy4JowDiP5gVU+AW9o2b73mpOrM609FOUqBCLZ5+Gyp53TPKZU1iuLPab6rWUZ5FPTv2/m49rO2cKokLXwCpGNSZa4ydbgXKK7895BJ2zyFCBO9jGSG09mv0aPyuxs3tUZQdcKGjKawu7zf3yQ==|920
